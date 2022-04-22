@@ -55,13 +55,13 @@
 
 ## 📕 Certifications
    
-<a href="https://www.credly.com/earner/earned/badge/eff54f2e-c7f4-412a-84ef-168010694e16"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals"
+<a href="https://www.credly.com/badges/eff54f2e-c7f4-412a-84ef-168010694e16"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals"
    title="Microsoft Certified: Azure Fundamentals" width="12%" /> </a>
-<a href="https://www.youracclaim.com/badges/104de99d-fac0-46fc-bcf0-06ae1f4c84b1"><img src="https://images.youracclaim.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals"
+<a href="https://www.credly.com/badges/7284c9a1-0fee-4962-818c-ae48b700b4ed"><img src="https://images.youracclaim.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals"
    title="Microsoft Certified: Azure Data Fundamentals" width="12%" /> </a>
-<a href="https://www.credly.com/earner/earned/badge/b85d939a-1bb4-42dc-b365-6d1439f8ffaf"><img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="CertiProf: Scrum Foundation Professional Certificate - SFPC"
+<a href="https://www.credly.com/badges/b85d939a-1bb4-42dc-b365-6d1439f8ffaf"><img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="CertiProf: Scrum Foundation Professional Certificate - SFPC"
    title="CertiProf: Scrum Foundation Professional Certificate - SFPC" width="12%" /> </a>
-   <a href="https://www.credly.com/earner/earned/badge/1633f76c-2edd-4677-96f8-60dcbf933761"><img src="https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="CertiProf: Lifelong Learning"
+   <a href="https://www.credly.com/badges/1633f76c-2edd-4677-96f8-60dcbf933761"><img src="https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="CertiProf: Lifelong Learning"
    title="CertiProf: Lifelong Learning" width="12%" /> </a> 
 
 
