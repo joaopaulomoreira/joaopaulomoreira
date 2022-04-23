@@ -42,9 +42,9 @@
 - ☁️ Cloud
       
     <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure"
-    title="Azure" width="10%" />&nbsp;&nbsp;
+    title="Azure" width="15%" />&nbsp;&nbsp;
     <img src="https://www.loudounchamber.org/wp-content/uploads/2018/02/aws_logo_smile-NEW.png" alt="AWS"
-    title="AWS" width="6%" />
+    title="AWS" width="15%" />
     
 <br>
 
@@ -56,13 +56,13 @@
 ## 📕 Certifications
    
 <a href="https://www.credly.com/badges/eff54f2e-c7f4-412a-84ef-168010694e16"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals"
-   title="Microsoft Certified: Azure Fundamentals" width="12%" /> </a>
+   title="Microsoft Certified: Azure Fundamentals" width="15%" /> </a>
 <a href="https://www.credly.com/badges/7284c9a1-0fee-4962-818c-ae48b700b4ed"><img src="https://images.youracclaim.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals"
-   title="Microsoft Certified: Azure Data Fundamentals" width="12%" /> </a>
+   title="Microsoft Certified: Azure Data Fundamentals" width="15%" /> </a>
 <a href="https://www.credly.com/badges/b85d939a-1bb4-42dc-b365-6d1439f8ffaf"><img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="CertiProf: Scrum Foundation Professional Certificate - SFPC"
-   title="CertiProf: Scrum Foundation Professional Certificate - SFPC" width="12%" /> </a>
+   title="CertiProf: Scrum Foundation Professional Certificate - SFPC" width="15%" /> </a>
    <a href="https://www.credly.com/badges/1633f76c-2edd-4677-96f8-60dcbf933761"><img src="https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="CertiProf: Lifelong Learning"
-   title="CertiProf: Lifelong Learning" width="12%" /> </a> 
+   title="CertiProf: Lifelong Learning" width="15%" /> </a> 
 
 
 <br>
