@@ -5,7 +5,7 @@
 
 *QA | Automation Developer | Support analyst*
 
-Sou formado em Tecnologia e Humanidades, descobri minha paixão e vocação na intersecção entre esses dois mundos.  Tenho experiência como Analista de Suporte e de Infraestrutura, além de atuar em projetos como freelancer em Teste e Qualidadw de Software. Atualmente dedicado no aperfeiçoamento de habilidades em Egenharia e Qualidade de Software,  Automação e DevOps.
+Sou formado em Tecnologia e Humanidades, descobri minha paixão e vocação na intersecção entre esses dois mundos.  Tenho experiência como Analista de Suporte e de Infraestrutura, além de atuar em projetos de Teste e Qualidadw de Software como freelancer. Atualmente me dedico no aperfeiçoamento de habilidades em Egenharia e Qualidade de Software, Automação e DevOps.
 
 I have a degree in Technology and Humanities, discovered my passion and vocation at the intersection of these two worlds. I have experience as a support and infrastructure analyst, as well as working as a freelancer in software testing. Today dedicate to improving skills in Software Engineering and Quality, Automation, and DevOps.
 
