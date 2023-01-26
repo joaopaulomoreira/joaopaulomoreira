@@ -15,7 +15,7 @@ I have a degree in Technology and Humanities, discovered my passion and vocation
 
 **My professional certifications**
 
-[AZ-900](https://www.credly.com/badges/eff54f2e-c7f4-412a-84ef-168010694e16) | [DP-900](https://www.credly.com/badges/7284c9a1-0fee-4962-818c-ae48b700b4ed) | [CTFL](https://bstqb.org.br/b9/)
+[AZ-900](https://www.credly.com/badges/eff54f2e-c7f4-412a-84ef-168010694e16) | [DP-900](https://www.credly.com/badges/7284c9a1-0fee-4962-818c-ae48b700b4ed) | [CTFL](https://bstqb.org.br/b9/) | [AWS-CCP](https://www.credly.com/badges/62abb1ba-4cb1-4507-81e2-9584b64170df)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopaulomoreira&show_icons=true&bg_color=ffffff&line_height=20&hide_border=true&hide_title=true&text_color=7BA08C&icon_color=2E4036&title_color=5F836F)](https://github.com/joaopaulomoreira/)
 
