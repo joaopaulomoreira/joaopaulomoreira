@@ -7,11 +7,11 @@
 
 Olá tod@s!
 
-Sou formado em Tecnologia e Humanidades, descobri minha paixão e vocação na intersecção entre esses dois mundos.  Tenho experiência como Analista de Suporte e de Infraestrutura, além de atuar em projetos de Teste e Qualidade de Software como freelancer. Atualmente me dedico no aperfeiçoamento de habilidades em Egenharia e Qualidade de Software, Automação e DevOps.
+Sou formado em Tecnologia e Humanidades e é na intersecção entre esses dois mundos que me inspiro.  Tenho experiência como Analista de Suporte e de Infraestrutura, além de desenvolver projetos em Teste e Qualidade de Software como freelancer ou voluntário. Atualmente me dedico no aperfeiçoamento de habilidades em Egenharia e Qualidade de Software, Automação e DevOps.
 
 Hello everyone!
 
-I have a degree in Technology and Humanities, discovered my passion and vocation at the intersection of these two worlds. I have experience as a support and infrastructure analyst, as well as working as a freelancer in software testing. Today dedicate to improving skills in Software Engineering and Quality, Automation, and DevOps.
+I have a degree in Technology and Humanitiesand it is the intersection between these two worlds that inspire me. I have experience as a support and infrastructure analyst, in addition to developing projects in Software Testing and Quality as a freelancer or volunteer. Today dedicate to improving skills in Software Engineering and Quality, Automation, and DevOps.
 
 **My professional certifications**
 
